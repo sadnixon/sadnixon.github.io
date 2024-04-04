@@ -51,12 +51,6 @@
     <p>Welcome!</p>
 
 <p>This site attempts to contain as full a record as possible of Spencer Mowdy Hill’s most important accomplishments and content. The content has been organized into several subpages.</p>
-
-<h1 id="spencers-latest-youtube-video">Spencer’s Latest Youtube Video:</h1>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-
-<script src="/assets/js/youtubeembed.js"></script>
-
 <style type="text/css">
 	.container {
 		position: relative;
@@ -73,7 +67,26 @@
 		width: 100%;
 		height: 100%;
 	}
+	.mobileShow { display: none;}
+	@media only screen
+	and (min-device-width : 320px)
+	and (max-device-width : 480px){ .mobileShow { display: inline;}}
 </style>
+
+<div class="mobileShow">
+	<ol>
+	<li><a href="/videos/">Videos</a></li>
+	<li><a href="/news/">In The News</a></li>
+	<li><a href="/music/">Music</a></li>
+	<li><a href="/code/">Coding</a></li>
+	<li><a href="/about/">About</a></li>
+	</ol>
+</div>
+
+<h1 id="spencers-latest-youtube-video">Spencer’s Latest Youtube Video:</h1>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<script src="/assets/js/youtubeembed.js"></script>
 
 <div class="container">
 	<iframe class="responsive-iframe" id="youtube_video" width="600" height="340" frameborder="0" allowfullscreen=""></iframe>
