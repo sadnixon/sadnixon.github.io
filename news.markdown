@@ -39,7 +39,7 @@ The following were written as a series published when Spencer worked at The Dail
 # [Google Forms love](https://www.dailycal.org/archives/google-forms-love/article_e38eeb14-bf68-5dd9-8b36-a376301b3e2c.html)
 (5/1/20)
 
-# [When I was furry][https://www.dailycal.org/archives/when-i-was-furry/article_a70ea7f7-57ac-5f9b-babe-25e3628191ec.html)
+# [When I was furry](https://www.dailycal.org/archives/when-i-was-furry/article_a70ea7f7-57ac-5f9b-babe-25e3628191ec.html)
 (4/24/20)
 
 # [Quarantined at UC Berkeley](https://www.dailycal.org/archives/quarantined-at-uc-berkeley/article_039a2971-ab8d-53fb-befa-252069345674.html)
