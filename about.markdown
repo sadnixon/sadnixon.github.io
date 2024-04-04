@@ -10,6 +10,6 @@ Spencer is also a classically trained pianist, having taken lessons for 10 years
 
 Spencer's other interests include politics, video production, graphic design, social media moderation, and creating intricate spreadsheets for tracking online game tournaments. His core goal is to make a permanent impact on human society.
 
-[symphony]: https://github.com/jekyll
+[symphony]: https://soundcloud.com/askspencerhill/sets/the-ipakanni-symphony
 [album]: https://open.spotify.com/album/2or5q0p9Gs0iXBN8Ewps4T?si=zTDJYDlZT7WmSbRbo5E-pw
 [stone-hill]: https://linktr.ee/stone.hill
