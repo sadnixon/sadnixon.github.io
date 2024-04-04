@@ -27,7 +27,7 @@ A Daily Californian article about the implications and impacts of Spencer's [Con
 An Oroville Mercury-Register article about Spencer's test score achievement on the PSAT.
 
 # [Teenager heads to Oregon to hear orchestra perform a symphony he composed][symphony-article]
-(4/12/2013)
+(4/12/13)
 An Oroville Mercury-Register article about Spencer's first full-length symphony being performed in part by the Marylhurst Symphony Orchestra.
 
 ## Columns Written By Spencer
