@@ -1,0 +1,17 @@
+facebook:
+  id: 'Spencer Mowdy Hill'
+  href: 'https://www.facebook.com/permanenceboy/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+twitter:
+  id: 'your-twitter-name'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'sadnixon'
+  href: 'https://github.com/sadnixon'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
