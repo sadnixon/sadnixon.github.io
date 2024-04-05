@@ -43,3 +43,9 @@ These videos, which are all cover songs, showcase the use of multiple performanc
 <iframe class="responsive-iframe" width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Ef_wLQvWtGh5BZP3&amp;list=PLmUBYE6yui2Xr_Wd90zD95uUGAV_jkTAb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+## Other Videos
+
+# Spencer's Music Facts
+This series of 104 (and counting) TikToks was dedicated to sharing interesting short musical factoids about all sorts of popular music.
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@spencermowdyhill" data-unique-id="spencermowdyhill" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@spencermowdyhill?refer=creator_embed">@spencermowdyhill</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>

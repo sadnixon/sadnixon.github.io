@@ -12,7 +12,7 @@ Stone Hill is a musical duo featuring Spencer as composer, arranger, producer, b
 ## [The Ipakanni Symphony](https://on.soundcloud.com/yURB9P4BQLrvpvuB8)
 In 2013, Spencer wrote his first full-length orchestral symphony, titled The Ipakanni Symphony. One movement of the symphony, the 2nd, was performed that same year by the Merylhurst Symphony Orchestra in Oregon.
 
-Live lerformance video of 2nd Movement:
+Live performance video of 2nd Movement:
 
 <style type="text/css">
 	.container {
