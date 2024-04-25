@@ -6,16 +6,64 @@ permalink: /code/
 
 ## Spencer's Data Projects
 # [LA City Assessor Data Project](https://github.com/sadnixon/LACityDataProject)
-Inspired by a question about which areas of LA are the "oldest", Spencer used Python webscraping to gather information on every building from the City of Los Angeles. By systematically gathering data from the [ZIMAS](https://zimas.lacity.org/) tool, he was able to create a map of Los Angeles in which each building is colored according to age.
+Inspired by a question about which areas of LA are the "oldest", Spencer used Python webscraping to gather information on every building from the City of Los Angeles. By systematically gathering data from the [ZIMAS](https://zimas.lacity.org/) tool, he was able to create a map of Los Angeles in which each building is colored according to age. He also created an equivalent map of Butte County, California, but this data was gathered by simply contacting the county directly due to the lack of a scrapable web tool. Animated versions of both maps are available.
 
 <button type="button" onclick="show_map()" id="mapBtn">
-	Toggle Map
+	Toggle Los Angeles Map
 </button>
 <img id="map-image" src="/assets/LAConstructionDateMapFinal.png" style="display: none;"/>
 
 <script>
 	function show_map() {
 	var x = document.getElementById("map-image");
+	if (x.style.display === "none") {
+		x.style.display = "block";
+	} else {
+		x.style.display = "none";
+	}
+}
+</script>
+
+<button type="button" onclick="show_map_animated()" id="mapBtnAni">
+	Toggle Los Angeles Animated Map
+</button>
+<img id="map-image-ani" src="/assets/animation_la_low_quality.gif" style="display: none;"/>
+
+<script>
+	function show_map_animated() {
+	var x = document.getElementById("map-image-ani");
+	if (x.style.display === "none") {
+		x.style.display = "block";
+	} else {
+		x.style.display = "none";
+	}
+}
+</script>
+
+<button type="button" onclick="show_map_2()" id="mapBtn2">
+	Toggle Butte County Map
+</button>
+<img id="map-image-2" src="/assets/ButteConstructionDateMapFinal.png" style="display: none;"/>
+
+<script>
+	function show_map_2() {
+	var x = document.getElementById("map-image-2");
+	if (x.style.display === "none") {
+		x.style.display = "block";
+	} else {
+		x.style.display = "none";
+	}
+}
+</script>
+
+<button type="button" onclick="show_map_animated_2()" id="mapBtnAni2">
+	Toggle Butte County Animated Map
+</button>
+<img id="map-image-ani-2" src="/assets/animation_butte_low_quality.gif" style="display: none;"/>
+
+<script>
+	function show_map_animated_2() {
+	var x = document.getElementById("map-image-ani-2");
 	if (x.style.display === "none") {
 		x.style.display = "block";
 	} else {
